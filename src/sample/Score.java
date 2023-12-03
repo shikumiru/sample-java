@@ -3,7 +3,7 @@ package sample;
 public class Score {
 
 	public static void main(String[] args) {
-		int[] scores = {22, 36, 40, 60, 80};
+		int[] scores = {22, 32, 40, 60, 80};
 		int sum = 0;
 		for (int i = 0; i < scores.length; i++) {
 			System.out.println(scores[i]);
