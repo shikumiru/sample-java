@@ -15,7 +15,6 @@ public class Main {
 		m2.hp = 48;
 		m2.suffix = 'B';
 		
-		
 		h.slip();
 		m1.run();
 		m2.run();
